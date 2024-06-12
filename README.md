@@ -5,3 +5,6 @@ chó
 voi
 khỉ
 sư tử
+cò
+mèo
+bò
