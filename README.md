@@ -2,3 +2,6 @@
 heo
 gà
 chó
+voi
+khỉ
+sư tử
